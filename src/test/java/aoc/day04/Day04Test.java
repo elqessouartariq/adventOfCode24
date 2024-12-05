@@ -1,6 +1,5 @@
 package aoc.day04;
 
-import aoc.day03.Day03;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
@@ -18,5 +17,4 @@ public class Day04Test {
         String result = new Day04().part2(path);
         assertEquals("1835", result);
     }
-
 }
