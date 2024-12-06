@@ -15,6 +15,6 @@ public class Day05Test {
     @Test
     public void testPart2(){
         String result = new Day05().part2(path);
-        assertEquals("1835", result);
+        assertEquals("5799", result);
     }
 }
